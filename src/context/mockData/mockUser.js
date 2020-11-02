@@ -1,0 +1,37 @@
+
+const mockUser = {
+  "login": "jawad-ch",
+  "id": 56069486,
+  "node_id": "MDQ6VXNlcjU2MDY5NDg2",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/56069486?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jawad-ch",
+  "html_url": "https://github.com/jawad-ch",
+  "followers_url": "https://api.github.com/users/jawad-ch/followers",
+  "following_url": "https://api.github.com/users/jawad-ch/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jawad-ch/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jawad-ch/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jawad-ch/subscriptions",
+  "organizations_url": "https://api.github.com/users/jawad-ch/orgs",
+  "repos_url": "https://api.github.com/users/jawad-ch/repos",
+  "events_url": "https://api.github.com/users/jawad-ch/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jawad-ch/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": null,
+  "company": null,
+  "blog": "",
+  "location": null,
+  "email": null,
+  "hireable": null,
+  "bio": null,
+  "twitter_username": null,
+  "public_repos": 3,
+  "public_gists": 0,
+  "followers": 3,
+  "following": 4,
+  "created_at": "2019-10-02T09:09:00Z",
+  "updated_at": "2020-10-31T20:01:32Z"
+};
+
+export default mockUser;
