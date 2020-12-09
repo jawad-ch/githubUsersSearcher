@@ -10,7 +10,6 @@ const NavBar = () => {
     user,
   } = useAuth0();
   const isUser = isAuthenticated && user;
-  console.log(isUser);
   return (
     <Wrapper>
       {isUser && user.picture && <img src={user.picture} alt={user.name} />}
